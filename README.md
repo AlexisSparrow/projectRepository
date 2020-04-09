@@ -1,9 +1,9 @@
 # projectRepository
-for yandex praktikum
+Form for yandex praktikum
 --------------------------------------
 
-Link to the project - https://github.com/AlexisSparrow/projectRepository.git
+Link to the form - https://alexissparrow.github.io/projectRepository/
 
 --------------------------------------
 
-Version of the project - 0.0.2
+Version of the project - 1.0.0
